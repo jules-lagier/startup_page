@@ -1,0 +1,23 @@
+.banner {
+  background-image: url('/Users/jules/Documents/startup_page/images/software-developer-gca837da1d_1920.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 15px;
+  padding-top: 15%;
+}
+
+
+.banner h1{
+  font-size: 45px;
+  text-align: left;
+  color: #FFFFFF;
+  padding-top: 15px;
+}
+
+.banner h4{
+  text-align: left;
+  color: #FFFFFF;
+  padding-bottom: 15px;
+  font-size: 25px;
+}
